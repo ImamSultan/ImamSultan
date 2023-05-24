@@ -43,7 +43,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
     </a>-->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png"
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3498663/status-iucn-ex-icon-blank-icon-md.png"
         alt="express" width="100" height="40" />
 </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -93,7 +93,7 @@ Languages and Tools:
         alt="mysql" width="40" height="40" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="nextjs" width="40" height="40" />
+    <img src="https://teacode.io/wp-content/uploads/2022/06/Copy-of-AWS-Amplify-blog-compress.png" alt="nextjs" width="40" height="40" />
 </a>
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
