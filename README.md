@@ -44,7 +44,7 @@ Languages and Tools:
     </a>-->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png"
-        alt="express" width="40" height="40" />
+        alt="express" width="100" height="40" />
 </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg"
