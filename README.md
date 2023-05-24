@@ -43,11 +43,11 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
     </a>-->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+    <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png"
         alt="express" width="40" height="40" />
 </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    <img src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg"
         alt="nodejs" width="40" height="40" />
 </a>
 <!--<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -93,7 +93,7 @@ Languages and Tools:
         alt="mysql" width="40" height="40" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="nextjs" width="40" height="40" />
 </a>
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
