@@ -44,7 +44,7 @@ Languages and Tools:
     </a>-->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3498663/status-iucn-ex-icon-blank-icon-md.png"
-        alt="express" width="50" height="40" />
+        alt="express" width="40" height="40" />
 </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg"
@@ -93,7 +93,7 @@ Languages and Tools:
         alt="mysql" width="40" height="40" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://teacode.io/wp-content/uploads/2022/06/Copy-of-AWS-Amplify-blog-compress.png" alt="nextjs" width="60" height="40" />
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bWAzTHrN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8vshokrazrgrnurqed8.jpg" alt="nextjs" width="60" height="40" />
 </a>
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
