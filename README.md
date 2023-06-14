@@ -1,7 +1,9 @@
 
 ### Hi Developers 👋
 
-[![LinkedinBadge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![LinkedinBadge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](www.linkedin.com/in/imamsultan)
+<br/>
+[![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
 <br/>
 [![WebsiteBadge](https://img.shields.io/website?style=social&up_message=ImamSultan&url=https%3A%2F%2Fimamsultan.github.io%2FImam_Portfolio%2F)](https://imamsultan.github.io/Imam_Portfolio/)
 
