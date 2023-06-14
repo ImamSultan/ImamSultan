@@ -1,6 +1,6 @@
 
 ### Hi Developers 👋
-https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/imamsultan)
 <br/>
 [![LinkedinBadge](https://img.shields.io/badge/-Imam-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/imamsultan)
 <br/>
