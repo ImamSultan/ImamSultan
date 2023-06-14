@@ -2,7 +2,7 @@
 ### Hi Developers 👋
 
 [![LinkedinBadge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/website?style=social&up_message=ImamSultan&url=https%3A%2F%2Fimamsultan.github.io%2FImam_Portfolio%2F](https://imamsultan.github.io/Imam_Portfolio/)
+[![WebsiteBadge](https://img.shields.io/website?style=social&up_message=ImamSultan&url=https%3A%2F%2Fimamsultan.github.io%2FImam_Portfolio%2F)](https://imamsultan.github.io/Imam_Portfolio/)
 
 I'm
 currently immersing myself in the world of web development, mastering essential languages and frameworks like HTML, CSS, JavaScript, and [React, Node]. I believe in the power of the web to connect people and enhance user experiences.
