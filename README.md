@@ -6,12 +6,9 @@ Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside
-some talented teams on a number of high profile websites. I have a wide range of skills that include back-end
-development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end
-development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP,
-Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+currently immersing myself in the world of web development, mastering essential languages and frameworks like HTML, CSS, JavaScript, and [React, Node]. I believe in the power of the web to connect people and enhance user experiences.
+
+Through my repositories, you'll find a collection of projects that showcase my growth as a web developer. From responsive websites and interactive web applications to experiments with the latest web technologies, I'm constantly challenging myself to learn and improve.
 
 
 Languages and Tools:
@@ -71,10 +68,10 @@ Languages and Tools:
 <!--<a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />-->
 </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<!--<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         width="40" height="40" />
-</a>
+</a>-->
 <!--<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
     </a>-->
@@ -100,10 +97,10 @@ Languages and Tools:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
         width="40" height="40" />
 </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40" />
-</a>
+</a>-->
 <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 </a>
@@ -111,21 +108,21 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>-->
 
-<a href="https://redis.io" target="_blank" rel="noreferrer">
+<!--<a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
         alt="redis" width="40" height="40" />
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+</a>-->
+<!--<a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
         width="40" height="40" />
-</a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+</a>-->
+<!--<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
         alt="selenium" width="40" height="40" />
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
+</a>-->
+<!--<a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-</a>
+</a>-->
 <!--<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
     </a>-->
@@ -143,9 +140,9 @@ Languages and Tools:
 
 <br />
 <br />
-<div>
+<!--<div>
     <img align="" height="195px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdeveloper&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </div>
 </details>
-<br />
+<br/>-->
