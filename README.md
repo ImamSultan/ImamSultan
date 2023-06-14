@@ -1,7 +1,7 @@
 
 ### Hi Developers 👋
-
-
+https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+<br/>
 [![LinkedinBadge](https://img.shields.io/badge/-Imam-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/imamsultan)
 <br/>
 [![WebsiteBadge](https://img.shields.io/website?style=social&up_message=ImamSultan&url=https%3A%2F%2Fimamsultan.github.io%2FImam_Portfolio%2F)](https://imamsultan.github.io/Imam_Portfolio/)
